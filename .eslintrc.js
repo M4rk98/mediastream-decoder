@@ -20,5 +20,8 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
   },
+  rules: {
+    "@typescript-eslint/no-use-before-define": "off",
+  },
   plugins: ["react"],
 };
