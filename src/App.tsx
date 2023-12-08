@@ -5,7 +5,7 @@ import { cn } from "utils";
 import Toggle from "components/toggle";
 
 const content = {
-  title: "Frame Forges",
+  title: "Frame Forge",
   description:
     'Click "Record" to record an amazing 10s long video and check out 20 frames from it',
 };
